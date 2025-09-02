@@ -85,9 +85,3 @@ Sample output:
 Accuracy: 0.93
 F1 Score: 0.92
 ```
-
----
-
-```
-
-Would you like help customizing this for GitHub presentation or adding badges and visuals?
